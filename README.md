@@ -16,3 +16,9 @@ Calculates total, max, and percentage for each group
 Counts odd and even numbers  
 
 Saves results with current date and time in `number analyser.txt`
+
+v3
+
+JSON saving
+
+max/min for even and odd 
